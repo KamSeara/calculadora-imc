@@ -21,7 +21,7 @@ Este é um projeto simples de uma **calculadora de IMC** (Índice de Massa Corpo
 
 ## 🔗 Acesse o Projeto
 
-Você pode visualizar a aplicação em funcionamento através do [GitHub Pages](https://seunomedeusuario.github.io/calculadora-imc/).
+Você pode visualizar a aplicação em funcionamento através do [GitHub Pages](https://kamseara.github.io/calculadora-imc/).
 
 ## 👨‍💻 Como Rodar o Projeto
 
