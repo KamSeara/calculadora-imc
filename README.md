@@ -1,4 +1,7 @@
 # Calculadora de IMC
+## 🖼️ Imagem do Layout
+
+![Imagem do Layout](calc.png)
 
 ## 📝 Descrição do Projeto
 
@@ -19,10 +22,6 @@ Este é um projeto simples de uma **calculadora de IMC** (Índice de Massa Corpo
 ## 🔗 Acesse o Projeto
 
 Você pode visualizar a aplicação em funcionamento através do [GitHub Pages](https://seunomedeusuario.github.io/calculadora-imc/).
-
-## 🖼️ Imagem do Layout
-
-![Imagem do Layout](https://i.imgur.com/3Z6SjD9.png)
 
 ## 👨‍💻 Como Rodar o Projeto
 
